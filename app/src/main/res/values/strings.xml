@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testrecyclerview</string>
+    <string name="button_1_name">Кнопка 1</string>
+    <string name="button_2_name">Кнопка 2</string>
+</resources>
